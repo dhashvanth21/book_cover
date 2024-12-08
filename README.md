@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-# Date:
+# Date:25/11/2024
 # AIM:
 To design a book front cover page using HTML and CSS.
 
@@ -29,6 +29,47 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 # PROGRAM:
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bookcover</title>
+    <link rel="icon" href="book.png">
+    <style>
+        body{
+            background-size:45cap;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-color: black;
+            height: 700px;
+            
+        }
+
+    </style>
+    <br>
+</head>
+
+<body background="book.png">
+    <center>
+        <br><br><br><br><BR></BR>
+        <font size="18" color="black" style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">THE</font>
+        <br>
+        <font size="12" color="grey" style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Elemental Chronicles</font>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <font size="6" color="white" style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">-ross king ston</font>
+
+    </center>
+    
+</body>
+</html>
+```
 # OUTPUT:
+![image](https://github.com/user-attachments/assets/f796de08-4cf1-4771-936a-98d53f6ee00e)
+
+![image](https://github.com/user-attachments/assets/ad5cf340-3792-4736-a5d4-cbd3b26701ec)
+
+
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
